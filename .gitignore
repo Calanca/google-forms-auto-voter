@@ -1,0 +1,24 @@
+# Arquivo de configuração com URL do formulário
+config.txt
+
+# Arquivo temporário de debug
+form_content.html
+
+# Binários compilados
+*.exe
+auto_voter
+auto_voter.exe
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log

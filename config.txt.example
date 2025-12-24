@@ -1,0 +1,15 @@
+# ====================================
+# Configuração do Auto Voter
+# ====================================
+#
+# INSTRUÇÕES:
+# 1. Copie este arquivo e renomeie para: config.txt
+# 2. Cole o link do formulário Google Forms abaixo
+# 3. Pode ser o link /viewform ou /formResponse
+#
+# EXEMPLO:
+# https://docs.google.com/forms/d/e/1FAIpQLSe_EXEMPLO_/viewform
+#
+# Cole o link do seu formulário na linha abaixo:
+
+https://docs.google.com/forms/d/e/SEU_FORMULARIO_AQUI/viewform
